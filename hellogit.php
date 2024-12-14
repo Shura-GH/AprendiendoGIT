@@ -1,2 +1,2 @@
-print ("hellogit");
+print ("Testeando el print");
 phpinfo;
