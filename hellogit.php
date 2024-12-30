@@ -1,2 +1,2 @@
-print ("Testeando el print");
+print ("Cambiamos para probar en github");
 phpinfo;
